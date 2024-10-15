@@ -1,4 +1,4 @@
-## Olá! Prazer, eu sou a Giovana Ramos. 🥰
+## Olá! Prazer, meu nome é Giovana Ramos. 🥰
 
 🔎 Atualmente, estou em busca de um estágio em TI onde possa aplicar e expandir minhas habilidades, com o objetivo de adquirir experiência prática e contribuir para projetos significativos ao longo do meu desenvolvimento profissional. Meu foco é me tornar Desenvolvedora FullStack, sempre em busca de novos desafios e oportunidades de aprendizado.
 
